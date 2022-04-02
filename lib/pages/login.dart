@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:recipe_app/pages/forgotpassword.dart';
 import 'package:recipe_app/pages/registration.dart';
-import 'package:recipe_app/widgets.dart';
+import 'package:recipe_app/widgets/mainwidgets.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
-import '../widgets.dart';
+import '../widgets/mainwidgets.dart';
 import 'dashboard.dart';
 
 class LoginPage extends StatefulWidget {

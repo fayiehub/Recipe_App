@@ -1,10 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/rendering.dart';
 import 'package:recipe_app/pages/dashboard.dart';
-import 'package:recipe_app/pages/forgotpassword.dart';
-import 'package:recipe_app/pages/login.dart';
-import 'package:recipe_app/pages/registration.dart';
-import 'package:recipe_app/widgets.dart';
 
 void main() {
   runApp(MyApp());

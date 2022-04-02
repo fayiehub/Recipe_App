@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:recipe_app/pages/dashboard.dart';
-import 'package:recipe_app/pages/registration.dart';
-import 'package:recipe_app/widgets.dart';
+import 'package:recipe_app/widgets/mainwidgets.dart';
 import 'package:recipe_app/pages/login.dart';
 
 class Passwordreset extends StatelessWidget {

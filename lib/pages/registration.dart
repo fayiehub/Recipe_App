@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 
 import 'package:flutter/material.dart';
 import 'package:recipe_app/pages/login.dart';
-import 'package:recipe_app/widgets.dart';
+import 'package:recipe_app/widgets/mainwidgets.dart';
 
 class signUp extends StatefulWidget {
   signUp({Key? key}) : super(key: key);
